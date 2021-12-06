@@ -6,7 +6,7 @@ title: Mitchell Ball's Resume
 Software Engineer major at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="bal20049@byui.edu">bal20049@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
@@ -15,12 +15,7 @@ Software Engineer major at Brigham Young University - Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020-2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
@@ -28,56 +23,53 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
 ### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`May 2013 - Current`
+__Richard Ball Farms__, Farm Hand
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Outside the box thinking utilized to created solutions to time sensitive problems/setbacks that arose to allow work to continue as quickly and safely as possible. 
+- Carried out day to day farm activities from planting through harvest, including all flood irrigation responsibilities.
+- Constantly learning and applying new skills and responsibilities.
 
 
-## Service and Work History
+`September 2020 - December 2020`
+__9 Plus Ag__, Compost Spreader
+- Worked with Raven Industries GPS systems to spread compost with precision.
+- Had to maintain clear and consistent communication with other crew members to ensure no ground was missed and no product was wasted.
+- Experienced in heavy machine operation and maintenance.
 
-`2025-2027`
-__Math Tutor__, LDSBC
+
+### Skills
+
+- Python  Javascript
+- SQL (MySQL)
+- HTML/CSS
+- Git
+- Excel
+- C Language
+- Machine Operator
+- Technical Scrappiness
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Projects
+
+__Financial Tracker__
+
+- Built a computer program to track financial inputs and outputs for my small-scale cattle operation. All expenses can be viewed together, new ones can be added, details of purchase, and profits gained from each project. Multiple projects can be tracked and saved at a time.
+- Utilized the panda’s package in python to save the data entered into data frames, allowing for the program to continually update information as needed. Since data frames reset every time, the program is closed, a csv file was simultaneously created to prevent information loss.
+- Used Python
+
+
+
+__Pandoras Box Game__
+
+- Created a video game similar to space invaders using Python. Utilized classes to enhance versatility, creating a vaguely specific program. Used to display skills of abstraction, encapsulation, inheritance, and polymorphism.
+- Used Arcade library for python.
+
+
+
+
 
 
 
