@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Mitchell Ball's Resume
 ---
 # Mitchell Ball
