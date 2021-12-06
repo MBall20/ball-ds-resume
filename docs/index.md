@@ -23,8 +23,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Data Science Lead
-
 `May 2013 - Current`
 __Richard Ball Farms__, Farm Hand
 
