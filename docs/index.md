@@ -6,8 +6,8 @@ title: Mitchell Ball's Resume
 Software Engineer major at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="bal20049@byui.edu">bal20049@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="mailto: bal20049@byui.edu">bal20049@byui.edu</a>
+| <a href="https://www.linkedin.com/in/mitchell-ball-7038391b7/">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
